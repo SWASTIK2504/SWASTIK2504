@@ -1,0 +1,1 @@
+{"ip":"Survival_SMP_V2.aternos.me","name":"AFK BOT","port":"13793"}
